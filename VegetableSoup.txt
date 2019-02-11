@@ -9,5 +9,9 @@ ingredients:
 	- one leek
 	- parsnip
 	- bouillon
+        - snoepjes
+        - koekjes
+        - vanille ijs
+        - chocolade ijs
 
 
