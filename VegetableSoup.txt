@@ -6,6 +6,8 @@ ingredients:
 	- five tomatoes
 	- one onions
 	-four carrots
+	- one leek
+	- parsnip
 	- bouillon
 
 
