@@ -5,7 +5,7 @@ ingredients:
 	- five slices of smoked paprika
 	- five tomatoes
 	- one onions
-	-four carrots
+	- four carrots
 	- one leek
 	- parsnip
 	- bouillon
@@ -13,5 +13,10 @@ ingredients:
         - chocolate chip cookies
         - vanilla icecream
         - chocolate icecream 
+        - a parsnip
+        - ginseng
+        - 2 leeks
+        - 1 onion
+
 
 
