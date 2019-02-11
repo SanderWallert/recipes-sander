@@ -1,0 +1,10 @@
+Vegatable Soup Recipe:
+
+ingredients:
+	- a pumpkin
+	- five slices of smoked paprika
+	- five tomatoes
+	- two onions
+	- bouillon
+
+
