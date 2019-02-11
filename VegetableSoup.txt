@@ -2,16 +2,9 @@ Vegatable Soup Recipe:
 
 ingredients:
 	- a pumpkin
-	- five slices of smoked paprika
-	- five tomatoes
-	- one onions
-	-four carrots
-	- one leek
-	- parsnip
-	- bouillon
-        - snoepjes
-        - koekjes
-        - vanille ijs
-        - chocolade ijs
+        - a parsnip
+        - ginseng
+        - 2 leeks
+        - 1 onion
 
 
