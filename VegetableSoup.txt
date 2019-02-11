@@ -9,9 +9,9 @@ ingredients:
 	- one leek
 	- parsnip
 	- bouillon
-        - snoepjes
-        - koekjes
-        - vanille ijs
-        - chocolade ijs
+        - Lemon Drops 
+        - chocolate chip cookies
+        - vanilla icecream
+        - chocolate icecream 
 
 
